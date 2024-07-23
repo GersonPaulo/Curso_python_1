@@ -1,0 +1,3 @@
+Nome do programa: betmaker
+Finalidade: criar apostas e calcular a prob de acerto baseando se em matemática
+usuario final: apostadores profissionais, e apostadores no geral
